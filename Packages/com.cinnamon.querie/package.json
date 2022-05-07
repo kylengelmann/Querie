@@ -1,0 +1,8 @@
+{
+	"name": "com.cinnamon.querie",
+	"version": "1.0.0",
+	"description": "do queries on things",
+	"displayName": "Querie",
+	"unity": "2021.1",
+	"dependencies": {}
+}
